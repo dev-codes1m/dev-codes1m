@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dev-codes1m
+- 👋 Hi, I’m Devanshu Mishra
 - 👀 I’m interested in Software,ML And Deep Learning
 - 🌱 I’m currently learning DataStructure And Artificial Intelligence
 - 📫 How to reach me https://www.linkedin.com/in/devansh5549/
